@@ -1,12 +1,12 @@
-Imyris
+## Imyris
 
-AI Image Workspace
+## AI Image Workspace
 
 Imyris is a workspace designed for managing, organizing, and exploring AI-generated images.
 
 Built for creators who work with large collections of images, prompts, tags, and metadata, Imyris aims to provide a fast and practical environment for everyday creative workflows.
 
-Features
+## Features
 
 * Fast image browsing
 * Tag management
@@ -15,7 +15,7 @@ Features
 * Local image library management
 * AI workflow integration
 
-Vision
+## Vision
 
 Most image viewers are built for viewing photos.
 
@@ -23,7 +23,7 @@ Imyris is being built for creators.
 
 The goal is to bring images, prompts, metadata, and workflow tools together in a single workspace designed around the needs of AI image generation.
 
-About This Project
+## About This Project
 
 Imyris is an independent project developed by a Japanese high school student.
 
@@ -54,17 +54,17 @@ The application integrates with Stable Diffusion via API, allowing users to mana
 - Extensible AI workflow integration (Stable Diffusion API)
 - Optimized for large image datasets and rapid browsing
 
-Status
+## Status
 
 🚧 Active Development
 
 Features, architecture, and UI may change significantly as the project evolves.
 
-Feedback
+## Feedback
 
 Suggestions, ideas, and feedback are always welcome.
 
-License
+## License
 
 MIT
 
