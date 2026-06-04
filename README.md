@@ -31,6 +31,29 @@ The project is built using modern AI-assisted development workflows, including G
 
 Rather than focusing solely on image viewing, Imyris aims to become a practical workspace for managing the entire lifecycle of AI-generated content.
 
+## Tech Stack
+
+- UI: PySide6 (Qt for Python)
+- Database: SQLite (local metadata storage)
+- AI Integration: Stable Diffusion API
+- Architecture: Local-first desktop application
+
+## System Overview
+
+Imyris is a desktop application built with PySide6, designed for managing large-scale AI-generated image datasets.
+
+It uses a local SQLite database to store and index metadata such as tags, prompts, and file relationships, enabling fast search and filtering even with large image collections.
+
+The application integrates with Stable Diffusion via API, allowing users to manage and monitor generated images within the same workspace.
+
+## Key Design Principles
+
+- Local-first architecture (data stored and managed locally)
+- Fast metadata indexing using SQLite
+- Separation between image files and metadata layer
+- Extensible AI workflow integration (Stable Diffusion API)
+- Optimized for large image datasets and rapid browsing
+
 Status
 
 🚧 Active Development
